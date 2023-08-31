@@ -46,9 +46,10 @@ which I am currently designing online at https://easyeda.com/ <br>
 This site supports both drawing the electrical schematic and converting it to a PCB.<br>
 In other projects I have worked on, I have found that it is very convenient to manufacture the PCBs directly <br>
 from the easyeda.com, which automatically sends all the needed files to https://jlcpcb.com/<br>
-(For example, 5 pcbs, 2-layers , FR4, at the size of  65mm x 95mm, should cost less then 10$USD.)
+(For example, 5 pcbs, 2-layers , FR4, at the size of  65mm x 95mm, should cost less then 10$USD.)<br>
+
 <br>
-[The pcb desing can be found here](pcb-design/)
+[The electrical schematic and PCB design are available here](pcb-design/)
 <br>
 
 <p align="center">
