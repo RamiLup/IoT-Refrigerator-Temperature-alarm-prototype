@@ -191,12 +191,11 @@ external sensors, and oled display.
 
 ## The code:
 Before verifing or compiling the Sketch you must read the source code Disclaimer.
-I wrote the code quickly to test the feasibility of my idea. and currently I'm working on a more efficient version,
-which will take me some time as I'm adding more remote controlling functions, designing a new PCB, and a new plastic housing.
- [The Arduino aource code can be found here](arduino/IoT-Refrigerator-Temperature-alarm.rar)
+I wrote the code quickly to test the feasibility of my idea. and currently I'm working on a more advanced version,
+which will take me some time as I'm adding functions, designing a new PCB, and a new plastic housing.
+[The Arduino source code can be found here](arduino/)
 
 ## The final result:
-
 <br>
 
 https://github.com/RamiLup/refrigerator-telegram-alarm/assets/42478562/2771e4ee-0a27-420d-b02c-bcbc11b3d498
