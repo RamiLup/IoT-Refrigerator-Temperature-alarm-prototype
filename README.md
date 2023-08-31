@@ -49,7 +49,9 @@ from the easyeda.com, which automatically sends all the needed files to https://
 (For example, 5 pcbs, 2-layers , FR4, at the size of  65mm x 95mm, should cost less then 10$USD.)<br>
 
 <br>
+
 [The electrical schematic and PCB design are available here](pcb-design/)
+
 <br>
 
 <p align="center">
