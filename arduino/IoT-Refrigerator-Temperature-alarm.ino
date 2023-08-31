@@ -1,6 +1,6 @@
 /* 
 // 
-// READ all the disclaimer before you start:
+// READ the disclaimer before you start:
 //
 // This project is not intended for life-saving systems, as it has not been fully tested.
 //
