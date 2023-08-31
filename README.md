@@ -192,8 +192,10 @@ external sensors, and oled display.
 ## The code:
 Before verifing or compiling the Sketch you must read the source code Disclaimer.
 I wrote the code quickly to test the feasibility of my idea. and currently I'm working on a more advanced version,
-which will take me some time as I'm adding functions, designing a new PCB, and a new plastic housing.
+which will take me some time as I'm adding functions, designing a new PCB, and a new plastic housing.<br>
+
 [The Arduino source code can be found here](arduino/)
+<br>
 
 ## The final result:
 <br>
