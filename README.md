@@ -196,7 +196,10 @@ which will take me some time as I'm adding more remote controlling functions, de
 
 
 ## The final result:
+
 <br>
+
 https://github.com/RamiLup/refrigerator-telegram-alarm/assets/42478562/2771e4ee-0a27-420d-b02c-bcbc11b3d498
+
 <br>
 
