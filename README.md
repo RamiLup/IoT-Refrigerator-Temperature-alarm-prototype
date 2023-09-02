@@ -1,18 +1,19 @@
 # IoT-based refrigerator alarm system with real time Telegram notifications
-
 <p align="center">
   <img src="/images/1_black_box.jpg" alt="IoT" width="150" height="250"/>
   <img src="/images/TELEGRAN_BOT_2.jpg" alt="TELEGRAN_BOT" width="275" height="250"/>
 </p>
 
 ## Main goal:
-It happened twice last summer, which was very hot, the refrigerator door was not closed properly. 
-This happened on a weekend when we were not at home. When we returned, all of the dairy products 
-were thrown away. The refrigerator did alert (locally) about this, but no one heard it even when we were at home.
-Therefore, I decided to find a reliable and effective solution:
+It happened twice last summer, the refrigerator door was not closed properly. 
+This happened on a weekend when we were not at home. When we returned, all of the dairy and meat products 
+were thrown away. The refrigerator did alert (locally), but no one heard it even when we were at home
+before we left for vacation.
+So, I started thinking of reliable and effective solution.
 
-Developing an affordable and reliable temperature sensor with a real-time alarm that can be used
-in home refrigerators to prevent food spoilage and ensure food safety.<br>
+Developing a temperature sensor with a real-time alarm that can be used
+in home refrigerators and in similar systems אם monitor the temperature and to prevent
+food spoilage and ensure food safety.<br>
 
 The common cause of the internal temperature of the refrigerator to rise is leaving the refrigerator door open. 
 However, there are other reasons why the contents of the refrigerator may be damaged after a few hours without cooling. 
