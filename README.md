@@ -12,7 +12,7 @@ before we left for vacation.
 So, I started thinking of reliable and effective solution.
 
 Developing a temperature sensor with a real-time alarm that can be used
-in home refrigerators and in similar systems אם monitor the temperature and to prevent
+in home refrigerators and in similar systems to monitor the temperature and to prevent
 food spoilage and ensure food safety.<br>
 
 The common cause of the internal temperature of the refrigerator to rise is leaving the refrigerator door open. 
