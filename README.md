@@ -1,6 +1,6 @@
 # IoT-based refrigerator alarm system with real time Telegram notifications
 <p align="center">
-  <img src="/images/1_black_box.jpg" alt="IoT" width="151" height="251"/>
+  <img src="/images/1_black_box.jpg" alt="IoT" width="150" height="250"/>
   <img src="/images/TELEGRAN_BOT_2.jpg" alt="TELEGRAN_BOT" width="275" height="250"/>
 </p>
 
