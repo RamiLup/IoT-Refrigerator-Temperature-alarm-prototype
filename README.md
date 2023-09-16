@@ -206,8 +206,6 @@ which will take me some time as I'm adding functions, designing a new PCB, and a
 
 ## The final result:
 <br>
-
-https://github.com/RamiLup/refrigerator-telegram-alarm/assets/42478562/2771e4ee-0a27-420d-b02c-bcbc11b3d498
-
+https://github.com/RamiLup/IoT-Refrigerator-Temperature-alarm-prototype/assets/42478562/3e619a1a-87c1-48c1-9973-3554a3a2b072
 <br>
 
