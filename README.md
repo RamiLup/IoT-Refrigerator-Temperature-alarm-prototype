@@ -24,7 +24,7 @@ In these cases, even though they are rare, the contents of the refrigerator will
 ## Cost effective ?
 The components cost for this current initial version is less than $12 USD and it is based on the ESP32 Wroom module on a prototype board.
 
-On the other hand the newer updated version, which is currently in the development stage, includes a costume made 2/4-layers PCB, ESP32 
+On the other hand the newer updated version, which is currently in the development stage, includes a custom made 2/4-layers PCB, ESP32 
 module with a backup battery and an internal GSM modem, and the total cost is about $18 USD.
 
 |Value |      Current Version           |       New Version |
