@@ -5,11 +5,12 @@
 </p>
 
 ## Main goal:
-It happened twice last summer, the refrigerator door was not closed properly. 
-This happened on a weekend when we were not at home. When we returned, all of the dairy and meat products 
-were thrown away. The refrigerator did alert (locally), but no one heard it even when we were at home
-before we left for vacation.
-So, I started thinking of reliable and effective solution.
+It happened twice last summer: the refrigerator door was not closed properly. 
+Both instances occurred on weekends when we were away from home. 
+Upon our return, we discovered that All dairy and meat items have spoiled and need to be discarded. 
+Although the refrigerator did alert locally, no one could heard it, 
+even when we were at home before leaving for vacation. This led me to ponder a 
+reliable and effective solution.
 
 Developing a temperature sensor with a real-time alarm that can be used
 in home refrigerators and in similar systems to monitor the temperature and to prevent
