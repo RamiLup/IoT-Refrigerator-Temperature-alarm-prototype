@@ -32,7 +32,7 @@ module with a backup battery and an internal GSM modem, and the total cost is ab
 |Board     | Prototype                      | 2/4-layer pcb |
 |Display |OLED 1.3"                             | OLED 1.3"|
 |External temperature Sensors|2     | 2     |
-|internal sensor  |1              | 1   |
+|Internal sensor  |1              | 1   |
 |Power| external DC                     | External DC with backup battery |
 |Communication | Wifi                            | Wifi + GPRS |
 |Patrs cost  | 12$USD          | 18$USD |
