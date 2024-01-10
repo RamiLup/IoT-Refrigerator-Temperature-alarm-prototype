@@ -5,7 +5,7 @@
 </p>
 
 ## Main goal:
-It happened twice last summer: the refrigerator door was not closed properly. 
+It happened twice last summer: the refrigerator door was not closed properly.
 Both instances occurred on weekends when we were away from home. 
 Upon our return, we discovered that All dairy and meat items have spoiled and need to be discarded. 
 Although the refrigerator did alert locally, no one could heard it, 
